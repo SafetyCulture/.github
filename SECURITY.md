@@ -26,8 +26,6 @@ Please note we operate a private bug bounty program and also accept submissions 
 
 When the SafetyCulture security team receives a security issue report, they will assign it to a primary handler. This person will coordinate the fix and release process, and provide updates throughout where we can.
 
-We operate a coordinated disclosure model, and appreciate discretion while we work on a fix for reported issues.
-
 ## Comments on this Policy
 
 If you have any suggestions on how this process could be improved please submit a pull request.
