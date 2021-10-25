@@ -20,7 +20,7 @@ Example of details to include:
 
 We will acknowledge submissions as soon as we can, indicating the next steps in handling your report. After the initial reply to your report, the security team will endeavor to keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
 
-Please note we operate a private bug bounty program and also accept submissions via this platform. Invitations for security researchers to the platform can be requested by emailing security@safetyculture.io.
+Please note we operate a private bug bounty program and also accept submissions via this platform. Invitations for security researchers to the platform can be requested by emailing security@safetyculture.com.
 
 ## Disclosure Policy
 
