@@ -12,6 +12,6 @@
 
 <!-- Does it make sense for this PR to be of this size? If the PR is large, consider breaking it down into smaller incremental PRs. To check the box, put an `x` in the box -->
 
-[ ] Is this PR a reasonable size?
+- [ ] Is this PR a reasonable size?
 
 <!-- Everyone merges their own PRs. Respond to reviewer feedback before merging. Try to avoid taking feedback personally. -->
