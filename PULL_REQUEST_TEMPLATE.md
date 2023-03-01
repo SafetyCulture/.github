@@ -1,10 +1,12 @@
 <!-- Expectations for PRs: https://safetyculture.atlassian.net/wiki/spaces/ENG/pages/2881716914/RFC66+Pull+Request+Code+Review+Standards -->
 
-<!-- Have you included a short summary of what the PR does, a description of the problem being solved and the pros/cons of the approach? -->
-
 ## Summary
 
+<!-- Short summary of what the PR does -->
+
 ## Problem description
+
+<!-- Description of the problem being solved -->
 
 ## Pros/cons of approach implemented
 
@@ -15,3 +17,12 @@
 - [ ] Is this PR a reasonable size?
 
 <!-- Everyone merges their own PRs. Respond to reviewer feedback before merging. Try to avoid taking feedback personally. -->
+
+---
+
+**Code Review Guidelines** for Reviewers
+
+- Try to review in a timely manner. Opinions/nitpicks should not be blockers. Pair on a call for non-trivial feedback.
+- Overall design and approach should follow established patterns. Don't try to make the PR perfect.
+- Try to identify edge cases, race conditions, over-engineering, lack of test coverage and complexity.
+- If you don't feel qualified to review the code, pass it on to someone who is.
