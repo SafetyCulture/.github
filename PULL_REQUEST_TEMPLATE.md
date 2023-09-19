@@ -16,6 +16,11 @@
 
 - [ ] Is this PR a reasonable size?
 
+<!-- If this PR is part of a broader set of changes, please provide a deployment sequence that includes all relevant PRs, so that changes can be reverted in the right order if a rollback were required (e.g. as part of an incident mitigation). To check the box, put an `x` in the box -->
+
+- [ ] List deployment sequence with all relevant PRs.
+  - None.
+
 <!-- Everyone merges their own PRs. Respond to reviewer feedback before merging. Try to avoid taking feedback personally. -->
 
 ---
