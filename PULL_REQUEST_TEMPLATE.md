@@ -20,6 +20,7 @@
 
 - [ ] List deployment sequence with all relevant PRs.
   - ...
+- [ ] If you have breaking changes, tick this to confirm that you checked other repositories in order to make sure they are not affected
 
 <!-- Everyone merges their own PRs. Respond to reviewer feedback before merging. Try to avoid taking feedback personally. -->
 
