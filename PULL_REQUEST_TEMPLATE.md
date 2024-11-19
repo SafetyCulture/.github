@@ -20,7 +20,10 @@
 
 - [ ] List deployment sequence with all relevant PRs.
   - ...
-- [ ] If you have breaking changes, tick this to confirm that you checked other repositories in order to make sure they are not affected
+
+<!-- Does this PR cause breaking changes? If so, it is your responsibility to check that other repositories are not affected. If they are, you must plan a deployment sequence (see above) to ensure any impact is addressed. Once you have done this, put an `x` in the box -->
+
+- [ ] For breaking changes: I have confirmed that other repos are not affected, or I have planned a deployment sequence to address any impact.
 
 <!-- Everyone merges their own PRs. Respond to reviewer feedback before merging. Try to avoid taking feedback personally. -->
 
