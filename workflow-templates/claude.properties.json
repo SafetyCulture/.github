@@ -1,0 +1,13 @@
+{
+  "name": "Claude Code Workflow",
+  "description": "Enables Claude AI assistant to respond to @claude mentions in issues, pull requests, and comments. Claude can help with code reviews, bug fixes, and development tasks.",
+  "iconName": "code",
+  "categories": [
+    "Automation",
+    "Code Review",
+    "AI"
+  ],
+  "filePatterns": [
+    "claude.yml$"
+  ]
+}
