@@ -2,13 +2,13 @@
 
 This document outlines security procedures and general policies for SafetyCulture projects.
 
-* [Reporting a Issue](#reporting-a-issue)
+* [Reporting an Issue](#reporting-an-issue)
 * [Disclosure Policy](#disclosure-policy)
 * [Comments on this Policy](#comments-on-this-policy)
   
-## Reporting a Issue
+## Reporting an Issue
 
-The SafetyCulture team take all security issues seriously. Thank you for improving the security at SafetyCulture. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
+The SafetyCulture team takes all security issues seriously. Thank you for improving the security at SafetyCulture. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
 
 Please send a detailed mail to report issues using the contact details [here][1].
 
